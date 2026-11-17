@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "events": [
+    {
+      "id": "valentines_2027",
+      "start": "2027-02-01",
+      "end": "2027-02-15",
+      "category": "valentine",
+      "hero": "val_love_strip",
+      "title": "Valentine’s Booth",
+      "subtitle": "New heart frames and love strips, made for two."
+    }
+  ]
+}
